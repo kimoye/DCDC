@@ -1,0 +1,17 @@
+[ai_design_17]
+[uniq_id]
+0
+[resources]
+<font>
+<color>
+<linestyle>
+<image>
+<layer>
+{electrical}
+{vis}
+{borderannotation}
+<style>
+[dependency]
+[sch_type]
+[simulator_type]
+saber
